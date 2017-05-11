@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class grapplinghook : MonoBehaviour {
+public class GrapplingHook : MonoBehaviour {
 
 
 
@@ -32,7 +32,7 @@ public class grapplinghook : MonoBehaviour {
 		}
 
 
-		if (Input.GetKeyDown (KeyCode.E)) {
+		if (Input.GetKeyDown (KeyCode.Mouse0)) {
 			targetPos= Camera.main.ScreenToWorldPoint(Input.mousePosition);
 			targetPos.z=0;
 
@@ -50,7 +50,7 @@ public class grapplinghook : MonoBehaviour {
 				joint.connectedAnchor = connectPoint;
 
 				joint.connectedBody=hit.collider.gameObject.GetComponent<Rigidbody2D>();
-				//		joint.connectedAnchor = hit.point - new Vector2(hit.collider.transform.position.x,hit.collider.transform.position.y);
+				joint.connectedAnchor = hit.point - new Vector2(hit.collider.transform.position.x,hit.collider.transform.position.y);
 				joint.distance= Vector2.Distance(transform.position,hit.point);
 
 				line.enabled=true;
@@ -64,13 +64,13 @@ public class grapplinghook : MonoBehaviour {
 		}
 		line.SetPosition(1,joint.connectedBody.transform.TransformPoint( joint.connectedAnchor));
 
-		if (Input.GetKey (KeyCode.E)) {
+		if (Input.GetKey (KeyCode.Mouse0)) {
 
 			line.SetPosition(0,transform.position);
 		}
 
 
-		if (Input.GetKeyUp (KeyCode.E)) {
+		if (Input.GetKeyUp (KeyCode.Mouse0)) {
 			joint.enabled=false;
 			line.enabled=false;
 		}
