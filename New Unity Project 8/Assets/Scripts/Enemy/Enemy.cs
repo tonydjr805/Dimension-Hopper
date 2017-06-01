@@ -21,6 +21,9 @@ public class Enemy : MonoBehaviour {
 
 	int Vida = 100;
 
+	public AudioSource source = null;
+	public AudioClip bullet;
+
 	[SerializeField]
 	float Distancia = 10;
 
@@ -30,6 +33,7 @@ public class Enemy : MonoBehaviour {
 		//Anim = GetComponent<Animator> ();
 		rigi = GetComponent<Rigidbody2D> ();
 		Shooting = false;
+		AudioSource audio = GetComponent<AudioSource>();
 		//StartCoroutine (LanzarBala ());
 		//Estado = 1;
 	}
@@ -64,6 +68,8 @@ public class Enemy : MonoBehaviour {
 			//Anim.SetTrigger ("Attack");
 			Instantiate (Bala, transform.FindChild ("Instaciate bullet").transform.position, transform.rotation);
 			Shooting = true;
+			source.clip = bullet;
+			source.Play ();
 			yield return new WaitForSeconds (TiempoDeRecarga);
 			Shooting = false;
 			//Estado = 0;

@@ -17,10 +17,15 @@ public class Player : MonoBehaviour
 	bool canMove = true;
 	int Vida = 100;
 	bool Shooting;
+
+	public AudioSource source = null;
+	public AudioClip bullet;
+	public AudioClip jump;
 	// Use this for initialization
 	void Start () 
 	{
 		rb = GetComponent<Rigidbody2D> ();
+		AudioSource audio = GetComponent<AudioSource>();
 		//anim = GetComponent<Animator> ();
 		//PlayerPrefs.SetInt ("Score", 0);/ to reset the score
 	}
@@ -52,11 +57,15 @@ public class Player : MonoBehaviour
 			rb.velocity = new Vector2(rb.velocity.x,jumpForce);
 		else if (Input.GetKeyDown (KeyCode.W) && leftSide) 
 		{
+			source.clip = jump;
+			source.Play ();
 			rb.velocity = new Vector2 (8, 8);
 			StartCoroutine(DisableMove (0.7f));
 		} 
 		else if (Input.GetKeyDown (KeyCode.W) && rightSide) 
 		{
+			source.clip = jump;
+			source.Play ();
 			rb.velocity = new Vector2 (-8, 8);
 			StartCoroutine(DisableMove (0.7f));
 		}
@@ -74,6 +83,8 @@ public class Player : MonoBehaviour
 	{
 		if (!Shooting) {
 			Shooting = true;
+			source.clip = bullet;
+			source.Play ();
 			Vector2 Diff = Camera.main.ScreenToWorldPoint (Input.mousePosition) - transform.position;
 			Diff.Normalize ();
 			float Angle = Mathf.Atan2 (Diff.y, Diff.x) * Mathf.Rad2Deg;
