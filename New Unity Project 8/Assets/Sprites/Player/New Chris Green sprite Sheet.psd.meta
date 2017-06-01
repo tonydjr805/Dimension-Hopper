@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 71d142d7076f82d4cb6b704b7ebb7ee2
+timeCreated: 1495761329
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: New Chris Green sprite Sheet_0
+    21300002: New Chris Green sprite Sheet_1
+    21300004: New Chris Green sprite Sheet_2
+    21300006: New Chris Green sprite Sheet_3
+    21300008: New Chris Green sprite Sheet_4
+    21300010: New Chris Green sprite Sheet_5
+    21300012: New Chris Green sprite Sheet_6
+    21300014: New Chris Green sprite Sheet_7
+    21300016: New Chris Green sprite Sheet_8
+    21300018: New Chris Green sprite Sheet_9
+    21300020: New Chris Green sprite Sheet_10
+    21300022: New Chris Green sprite Sheet_11
+    21300024: New Chris Green sprite Sheet_12
+    21300026: New Chris Green sprite Sheet_13
+    21300028: New Chris Green sprite Sheet_14
+    21300030: New Chris Green sprite Sheet_15
+    21300032: New Chris Green sprite Sheet_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: New Chris Green sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 818
+        width: 56
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -71.5}
+        - {x: -8, y: -69.5}
+        - {x: -11, y: -68.5}
+        - {x: -13, y: -71.5}
+      - - {x: 20, y: 71.5}
+        - {x: -27, y: 71.5}
+        - {x: -28, y: 66.5}
+        - {x: -28, y: -57.5}
+        - {x: 28, y: -57.5}
+        - {x: 28, y: 64.5}
+        - {x: 25, y: 70.5}
+      - - {x: -25, y: 50.5}
+        - {x: -22, y: 51.5}
+        - {x: -22, y: 54.5}
+        - {x: -25, y: 55.5}
+        - {x: -27, y: 53.5}
+    - name: New Chris Green sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 818
+        width: 74
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -71.5}
+        - {x: -4, y: -69.5}
+        - {x: -7, y: -68.5}
+        - {x: -9, y: -71.5}
+      - - {x: 6, y: -62.5}
+        - {x: 9, y: -61.5}
+        - {x: 9, y: -58.5}
+        - {x: 6, y: -57.5}
+        - {x: 4, y: -59.5}
+      - - {x: 20, y: 71.5}
+        - {x: -22, y: 71.5}
+        - {x: -27, y: 67.5}
+        - {x: -37, y: 41.5}
+        - {x: -37, y: -55.5}
+        - {x: -28, y: -54.5}
+        - {x: -9, y: -41.5}
+        - {x: -3, y: -35.5}
+        - {x: -3, y: -32.5}
+        - {x: -1, y: -33.5}
+        - {x: -4, y: -43.5}
+        - {x: -5, y: -48.5}
+        - {x: -6, y: -55.5}
+        - {x: 0, y: -57.5}
+        - {x: 15, y: -57.5}
+        - {x: 28, y: -31.5}
+        - {x: 34, y: -0.5}
+        - {x: 34, y: 33.5}
+      - - {x: -22, y: -55.5}
+        - {x: -19, y: -54.5}
+        - {x: -19, y: -51.5}
+        - {x: -22, y: -50.5}
+        - {x: -24, y: -52.5}
+      - - {x: 23, y: -42.5}
+        - {x: 24, y: -45.5}
+        - {x: 27, y: -45.5}
+        - {x: 29, y: -43.5}
+        - {x: 28, y: -40.5}
+        - {x: 25, y: -40.5}
+      - - {x: 31, y: -44.5}
+        - {x: 34, y: -43.5}
+        - {x: 34, y: -40.5}
+        - {x: 31, y: -39.5}
+        - {x: 29, y: -41.5}
+      - - {x: 30, y: -31.5}
+        - {x: 33, y: -30.5}
+        - {x: 33, y: -27.5}
+        - {x: 30, y: -26.5}
+        - {x: 28, y: -28.5}
+      - - {x: 18, y: -18.5}
+        - {x: 20, y: -20.5}
+        - {x: 23, y: -19.5}
+        - {x: 23, y: -16.5}
+        - {x: 21, y: -14.5}
+        - {x: 18, y: -15.5}
+      - - {x: 9, y: -12.5}
+        - {x: 11, y: -14.5}
+        - {x: 14, y: -13.5}
+        - {x: 14, y: -9.5}
+        - {x: 12, y: -7.5}
+        - {x: 9, y: -8.5}
+      - - {x: 21, y: -10.5}
+        - {x: 24, y: -9.5}
+        - {x: 24, y: -6.5}
+        - {x: 21, y: -5.5}
+        - {x: 19, y: -7.5}
+      - - {x: 21, y: 42.5}
+        - {x: 21, y: 39.5}
+        - {x: 25, y: 36.5}
+        - {x: 27, y: 36.5}
+        - {x: 29, y: 37.5}
+        - {x: 29, y: 39.5}
+        - {x: 24, y: 44.5}
+        - {x: 23, y: 44.5}
+      - - {x: 34, y: 41.5}
+        - {x: 36, y: 39.5}
+        - {x: 37, y: 39.5}
+        - {x: 37, y: 44.5}
+        - {x: 35, y: 44.5}
+      - - {x: -32, y: 50.5}
+        - {x: -29, y: 51.5}
+        - {x: -29, y: 54.5}
+        - {x: -32, y: 55.5}
+        - {x: -34, y: 53.5}
+    - name: New Chris Green sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 830
+        width: 73
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: -67.5}
+        - {x: 31.5, y: -68.5}
+        - {x: 36.5, y: -68.5}
+        - {x: 36.5, y: -65.5}
+        - {x: 33.5, y: -65.5}
+      - - {x: -10.5, y: -60.5}
+        - {x: -10.5, y: -61.5}
+        - {x: -8.5, y: -63.5}
+        - {x: -7.5, y: -63.5}
+        - {x: -4.5, y: -60.5}
+        - {x: -4.5, y: -58.5}
+        - {x: -7.5, y: -57.5}
+      - - {x: -16.5, y: 68.5}
+        - {x: -28.5, y: 29.5}
+        - {x: -28.5, y: -15.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -12.5, y: -6.5}
+        - {x: -24.5, y: -55.5}
+        - {x: -3.5, y: -60.5}
+        - {x: 15.5, y: -63.5}
+        - {x: 36.5, y: -63.5}
+        - {x: 36.5, y: 68.5}
+      - - {x: -25.5, y: -37.5}
+        - {x: -25.5, y: -50.5}
+        - {x: -22.5, y: -51.5}
+        - {x: -19.5, y: -50.5}
+        - {x: -19.5, y: -38.5}
+        - {x: -20.5, y: -37.5}
+      - - {x: -36.5, y: -1.5}
+        - {x: -36.5, y: -18.5}
+        - {x: -34.5, y: -21.5}
+        - {x: -31.5, y: -20.5}
+        - {x: -31.5, y: -6.5}
+        - {x: -34.5, y: -1.5}
+      - - {x: -35.5, y: 15.5}
+        - {x: -35.5, y: 11.5}
+        - {x: -34.5, y: 7.5}
+        - {x: -31.5, y: 6.5}
+        - {x: -28.5, y: 7.5}
+        - {x: -28.5, y: 11.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -33.5, y: 16.5}
+      - - {x: -33.5, y: 19.5}
+        - {x: -33.5, y: 22.5}
+        - {x: -36.5, y: 23.5}
+        - {x: -36.5, y: 18.5}
+      - - {x: -25.5, y: 25.5}
+        - {x: -23.5, y: 23.5}
+        - {x: -20.5, y: 24.5}
+        - {x: -20.5, y: 30.5}
+        - {x: -22.5, y: 32.5}
+        - {x: -25.5, y: 31.5}
+      - - {x: -33.5, y: 31.5}
+        - {x: -33.5, y: 34.5}
+        - {x: -36.5, y: 35.5}
+        - {x: -36.5, y: 30.5}
+      - - {x: -26.5, y: 31.5}
+        - {x: -23.5, y: 33.5}
+        - {x: -25.5, y: 38.5}
+        - {x: -28.5, y: 38.5}
+        - {x: -29.5, y: 35.5}
+      - - {x: -35.5, y: 37.5}
+        - {x: -34.5, y: 34.5}
+        - {x: -31.5, y: 34.5}
+        - {x: -29.5, y: 36.5}
+        - {x: -30.5, y: 39.5}
+        - {x: -33.5, y: 39.5}
+      - - {x: -17.5, y: 47.5}
+        - {x: -14.5, y: 48.5}
+        - {x: -14.5, y: 51.5}
+        - {x: -17.5, y: 52.5}
+        - {x: -19.5, y: 50.5}
+    - name: New Chris Green sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 816
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -68}
+        - {x: 38.5, y: -66}
+        - {x: 35.5, y: -65}
+        - {x: 33.5, y: -68}
+      - - {x: 28.5, y: 67}
+        - {x: 26.5, y: 68}
+        - {x: -19.5, y: 68}
+        - {x: -42.5, y: 24}
+        - {x: -42.5, y: -20}
+        - {x: -29.5, y: -23}
+        - {x: -39.5, y: -37}
+        - {x: -42.5, y: -51}
+        - {x: -42.5, y: -59}
+        - {x: -22.5, y: -66}
+        - {x: 42.5, y: -66}
+        - {x: 42.5, y: 33}
+        - {x: 31.5, y: 30}
+        - {x: 27.5, y: 25}
+        - {x: 31.5, y: 48}
+      - - {x: -21.5, y: 47}
+        - {x: -18.5, y: 48}
+        - {x: -18.5, y: 51}
+        - {x: -21.5, y: 52}
+        - {x: -23.5, y: 50}
+    - name: New Chris Green sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 816
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 26.5}
+        - {x: 16, y: 21.5}
+        - {x: 15, y: 24.5}
+        - {x: 24, y: 28.5}
+        - {x: 29, y: 48.5}
+        - {x: 26, y: 67.5}
+        - {x: 21, y: 68.5}
+        - {x: -14, y: 68.5}
+        - {x: -28, y: 47.5}
+        - {x: -30, y: 28.5}
+        - {x: -30, y: -19.5}
+        - {x: -20, y: -18.5}
+        - {x: -16, y: -14.5}
+        - {x: -16, y: -7.5}
+        - {x: -14, y: -26.5}
+        - {x: -30, y: -26.5}
+        - {x: -30, y: -41.5}
+        - {x: -27, y: -49.5}
+        - {x: 10, y: -68.5}
+        - {x: 30, y: -68.5}
+        - {x: 30, y: 36.5}
+        - {x: 24, y: 28.5}
+      - - {x: -24, y: 47.5}
+        - {x: -21, y: 48.5}
+        - {x: -21, y: 51.5}
+        - {x: -24, y: 52.5}
+        - {x: -26, y: 50.5}
+    - name: New Chris Green sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 821
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 64.5}
+        - {x: -36.5, y: 44.5}
+        - {x: -36.5, y: -64.5}
+        - {x: 36.5, y: -64.5}
+        - {x: 36.5, y: 49.5}
+        - {x: 24.5, y: 64.5}
+      - - {x: -29.5, y: 43.5}
+        - {x: -26.5, y: 44.5}
+        - {x: -26.5, y: 47.5}
+        - {x: -29.5, y: 48.5}
+        - {x: -31.5, y: 46.5}
+    - name: New Chris Green sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 879
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New Chris Green sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 889
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New Chris Green sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 865
+        width: 25
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New Chris Green sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 837
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New Chris Green sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 657
+        width: 87
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 68.5}
+        - {x: -11.5, y: 68.5}
+        - {x: -17.5, y: 64.5}
+        - {x: -40.5, y: 2.5}
+        - {x: -40.5, y: -15.5}
+        - {x: -38.5, y: -20.5}
+        - {x: -28.5, y: -17.5}
+        - {x: -32.5, y: -59.5}
+        - {x: -17.5, y: -68.5}
+        - {x: 40.5, y: -68.5}
+        - {x: 41.5, y: -63.5}
+        - {x: 41.5, y: 27.5}
+        - {x: 32.5, y: 66.5}
+      - - {x: 10.5, y: 72.5}
+        - {x: 10.5, y: 74.5}
+        - {x: 5.5, y: 74.5}
+        - {x: 7.5, y: 71.5}
+    - name: New Chris Green sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 634
+        width: 53
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 78}
+        - {x: -24.5, y: 77}
+        - {x: -26.5, y: 63}
+        - {x: -26.5, y: 13}
+        - {x: -23.5, y: 1}
+        - {x: -25.5, y: -51}
+        - {x: -22.5, y: -78}
+        - {x: 26.5, y: -78}
+        - {x: 26.5, y: 77}
+        - {x: 25.5, y: 78}
+      - - {x: 19.5, y: 23}
+        - {x: 22.5, y: 24}
+        - {x: 22.5, y: 27}
+        - {x: 19.5, y: 28}
+        - {x: 17.5, y: 26}
+      - - {x: 17.5, y: 37}
+        - {x: 20.5, y: 38}
+        - {x: 20.5, y: 41}
+        - {x: 17.5, y: 42}
+        - {x: 15.5, y: 40}
+      - - {x: -23.5, y: 58}
+        - {x: -23.5, y: 61}
+        - {x: -26.5, y: 62}
+        - {x: -26.5, y: 57}
+    - name: New Chris Green sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 618
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline:
+      - - {x: -24, y: 81}
+        - {x: -52, y: 8}
+        - {x: -52, y: -9}
+        - {x: -51, y: -11}
+        - {x: -43, y: -11}
+        - {x: -34, y: -3}
+        - {x: -52, y: -42}
+        - {x: -52, y: -81}
+        - {x: 45, y: -81}
+        - {x: 45, y: 81}
+      - - {x: 40, y: -67}
+        - {x: 41, y: -70}
+        - {x: 44, y: -70}
+        - {x: 46, y: -68}
+        - {x: 45, y: -65}
+        - {x: 42, y: -65}
+      - - {x: 49, y: -60}
+        - {x: 51, y: -62}
+        - {x: 52, y: -62}
+        - {x: 52, y: -57}
+        - {x: 50, y: -57}
+      - - {x: 32, y: -55}
+        - {x: 34, y: -57}
+        - {x: 37, y: -56}
+        - {x: 37, y: -52}
+        - {x: 35, y: -50}
+        - {x: 32, y: -51}
+      - - {x: 40, y: -54}
+        - {x: 43, y: -53}
+        - {x: 43, y: -50}
+        - {x: 40, y: -49}
+        - {x: 38, y: -51}
+      - - {x: 45, y: -44}
+        - {x: 48, y: -43}
+        - {x: 48, y: -40}
+        - {x: 45, y: -39}
+        - {x: 43, y: -41}
+      - - {x: 29, y: -41}
+        - {x: 31, y: -43}
+        - {x: 34, y: -42}
+        - {x: 34, y: -29}
+        - {x: 32, y: -27}
+        - {x: 29, y: -28}
+      - - {x: 42, y: -22}
+        - {x: 45, y: -25}
+        - {x: 48, y: -23}
+        - {x: 47, y: -16}
+        - {x: 45, y: -14}
+        - {x: 42, y: -15}
+      - - {x: 29, y: -19}
+        - {x: 32, y: -18}
+        - {x: 32, y: -15}
+        - {x: 29, y: -14}
+        - {x: 27, y: -16}
+      - - {x: 38, y: 11}
+        - {x: 40, y: 9}
+        - {x: 43, y: 10}
+        - {x: 43, y: 18}
+        - {x: 41, y: 20}
+        - {x: 38, y: 19}
+      - - {x: 43, y: 32}
+        - {x: 43, y: 26}
+        - {x: 45, y: 24}
+        - {x: 46, y: 24}
+        - {x: 49, y: 27}
+        - {x: 49, y: 30}
+        - {x: 46, y: 33}
+      - - {x: 29, y: 25}
+        - {x: 32, y: 26}
+        - {x: 32, y: 29}
+        - {x: 29, y: 30}
+        - {x: 27, y: 28}
+      - - {x: 18, y: 41}
+        - {x: 17, y: 38}
+        - {x: 20, y: 31}
+        - {x: 22, y: 31}
+        - {x: 25, y: 32}
+        - {x: 25, y: 35}
+        - {x: 22, y: 41}
+      - - {x: 36, y: 33}
+        - {x: 39, y: 34}
+        - {x: 39, y: 37}
+        - {x: 36, y: 38}
+        - {x: 34, y: 36}
+      - - {x: 45, y: 38}
+        - {x: 46, y: 35}
+        - {x: 49, y: 35}
+        - {x: 51, y: 37}
+        - {x: 50, y: 40}
+        - {x: 47, y: 40}
+      - - {x: 33, y: 51}
+        - {x: 36, y: 52}
+        - {x: 36, y: 55}
+        - {x: 33, y: 56}
+        - {x: 31, y: 54}
+      - - {x: 44, y: 55}
+        - {x: 47, y: 56}
+        - {x: 47, y: 59}
+        - {x: 44, y: 60}
+        - {x: 42, y: 58}
+      - - {x: -27, y: 58}
+        - {x: -24, y: 59}
+        - {x: -24, y: 62}
+        - {x: -27, y: 63}
+        - {x: -29, y: 61}
+      - - {x: 42, y: 62}
+        - {x: 45, y: 63}
+        - {x: 45, y: 66}
+        - {x: 42, y: 67}
+        - {x: 40, y: 65}
+      - - {x: 45, y: 68}
+        - {x: 48, y: 63}
+        - {x: 51, y: 64}
+        - {x: 51, y: 68}
+        - {x: 49, y: 70}
+        - {x: 47, y: 70}
+      - - {x: 36, y: 77}
+        - {x: 39, y: 78}
+        - {x: 39, y: 81}
+        - {x: 36, y: 82}
+        - {x: 34, y: 80}
+      - - {x: 45, y: 77}
+        - {x: 48, y: 78}
+        - {x: 48, y: 84}
+        - {x: 43, y: 84}
+        - {x: 43, y: 79}
+    - name: New Chris Green sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 789
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: New Chris Green sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 624
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 67.5}
+        - {x: -7.5, y: 67.5}
+        - {x: -34.5, y: 45.5}
+        - {x: -38.5, y: 14.5}
+        - {x: -38.5, y: -29.5}
+        - {x: -26.5, y: -18.5}
+        - {x: -22.5, y: -15.5}
+        - {x: -21.5, y: -57.5}
+        - {x: -17.5, y: -67.5}
+        - {x: 29.5, y: -67.5}
+        - {x: 41.5, y: -26.5}
+        - {x: 41.5, y: 37.5}
+        - {x: 32.5, y: 65.5}
+    - name: New Chris Green sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 619
+        width: 74
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 69.5}
+        - {x: -37, y: 27.5}
+        - {x: -37, y: -61.5}
+        - {x: -28, y: -71.5}
+        - {x: 32, y: -71.5}
+        - {x: 32, y: 63.5}
+        - {x: 21, y: 69.5}
+    - name: New Chris Green sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 638
+        width: 69
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 14.5}
+        - {x: 9.5, y: 8.5}
+        - {x: 8.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 8.5, y: 6.5}
+        - {x: 12.5, y: 11.5}
+        - {x: 23.5, y: 37.5}
+        - {x: 23.5, y: 59.5}
+        - {x: -34.5, y: 59.5}
+        - {x: -34.5, y: -26.5}
+        - {x: -29.5, y: -58.5}
+        - {x: -25.5, y: -59.5}
+        - {x: 34.5, y: -59.5}
+        - {x: 34.5, y: 17.5}
+        - {x: 30.5, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

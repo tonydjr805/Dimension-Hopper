@@ -45,6 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Boss\Boss.cs" />
+     <Compile Include="Assets\Scripts\Boss\BulletBoss1.cs" />
+     <Compile Include="Assets\Scripts\BulletBall.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Death.cs" />
@@ -54,6 +57,7 @@
      <Compile Include="Assets\Scripts\GrapplingHook.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\RopeRatio.cs" />
+     <Compile Include="Assets\Scripts\StartGame.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity 5.3.2/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

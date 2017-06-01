@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/WildWestLevel.unity
+- path: Assets/Scenes/MainLevelBoss.unity
   isLoaded: 1
   isActive: 1

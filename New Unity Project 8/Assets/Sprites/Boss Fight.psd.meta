@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: b2261519baca6d0439ed99bf3f8c0fc6
+timeCreated: 1495760971
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss Fight_0
+    21300002: Boss Fight_1
+    21300004: Boss Fight_2
+    21300006: Boss Fight_3
+    21300008: Boss Fight_4
+    21300010: Boss Fight_5
+    21300012: Boss Fight_6
+    21300014: Boss Fight_7
+    21300016: Boss Fight_8
+    21300018: Boss Fight_9
+    21300020: Boss Fight_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Boss Fight_0
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 881
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -29}
+        - {x: 54, y: -29}
+        - {x: 54, y: 2}
+        - {x: 37, y: 25}
+        - {x: -49, y: 25}
+        - {x: -54, y: 21}
+    - name: Boss Fight_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 749
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 40}
+        - {x: -53.5, y: 33}
+        - {x: -56.5, y: 9}
+        - {x: -56.5, y: -32}
+        - {x: -53.5, y: -40}
+        - {x: 56.5, y: -40}
+        - {x: 56.5, y: -3}
+        - {x: 55.5, y: 2}
+        - {x: 41.5, y: 40}
+    - name: Boss Fight_2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 569
+        width: 171
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 91}
+        - {x: -17.5, y: 91}
+        - {x: -20.5, y: 87}
+        - {x: -22.5, y: 82}
+        - {x: -25.5, y: 72}
+        - {x: -55.5, y: 66}
+        - {x: -58.5, y: 59}
+        - {x: -85.5, y: -33}
+        - {x: -85.5, y: -73}
+        - {x: -48.5, y: -91}
+        - {x: 63.5, y: -91}
+        - {x: 85.5, y: -63}
+        - {x: 85.5, y: -25}
+        - {x: 68.5, y: -10}
+    - name: Boss Fight_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 657
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 36.5}
+        - {x: -58, y: 14.5}
+        - {x: -58, y: -34.5}
+        - {x: -46, y: -36.5}
+        - {x: 55, y: -36.5}
+        - {x: 58, y: -34.5}
+        - {x: 58, y: -4.5}
+        - {x: 40, y: 36.5}
+    - name: Boss Fight_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 557
+        width: 135
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 40}
+        - {x: -67.5, y: 23}
+        - {x: -67.5, y: -28}
+        - {x: -50.5, y: -40}
+        - {x: 66.5, y: -40}
+        - {x: 67.5, y: -38}
+        - {x: 67.5, y: 19}
+        - {x: 56.5, y: 40}
+      - - {x: 54.5, y: 36}
+        - {x: 55.5, y: 33}
+        - {x: 58.5, y: 33}
+        - {x: 60.5, y: 35}
+        - {x: 59.5, y: 38}
+        - {x: 56.5, y: 38}
+    - name: Boss Fight_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 448
+        width: 136
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 61.5}
+        - {x: -68, y: -60.5}
+        - {x: -63, y: -61.5}
+        - {x: 59, y: -61.5}
+        - {x: 68, y: -47.5}
+        - {x: 68, y: 45.5}
+        - {x: 53, y: 61.5}
+    - name: Boss Fight_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 457
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 32}
+        - {x: -48, y: 32}
+        - {x: -56, y: 10}
+        - {x: -56, y: -30}
+        - {x: -43, y: -32}
+        - {x: 56, y: -32}
+        - {x: 56, y: 14}
+        - {x: 47, y: 31}
+    - name: Boss Fight_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 322
+        width: 136
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 61.5}
+        - {x: -64, y: 29.5}
+        - {x: -68, y: 11.5}
+        - {x: -68, y: -33.5}
+        - {x: -52, y: -46.5}
+        - {x: -26, y: -61.5}
+        - {x: 65, y: -61.5}
+        - {x: 68, y: -48.5}
+        - {x: 68, y: 23.5}
+        - {x: 41, y: 61.5}
+    - name: Boss Fight_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 339
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 42}
+        - {x: -35, y: 40}
+        - {x: -46, y: 4}
+        - {x: -46, y: -28}
+        - {x: -17, y: -42}
+        - {x: 33, y: -42}
+        - {x: 46, y: -23}
+        - {x: 46, y: 34}
+        - {x: 22, y: 42}
+    - name: Boss Fight_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 268
+        width: 147
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.5, y: -16.5}
+        - {x: 73.5, y: 31.5}
+        - {x: 29.5, y: 70.5}
+        - {x: 21.5, y: 70.5}
+        - {x: 19.5, y: 68.5}
+        - {x: -55.5, y: 45.5}
+        - {x: -55.5, y: -41.5}
+        - {x: -6.5, y: -70.5}
+        - {x: 16.5, y: -70.5}
+        - {x: 30.5, y: -64.5}
+        - {x: 63.5, y: -59.5}
+        - {x: 73.5, y: -56.5}
+        - {x: 70.5, y: -47.5}
+      - - {x: -70.5, y: 14.5}
+        - {x: -70.5, y: 17.5}
+        - {x: -73.5, y: 18.5}
+        - {x: -73.5, y: 13.5}
+    - name: Boss Fight_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 71
+        width: 224
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 82}
+        - {x: 3, y: 72}
+        - {x: -55, y: 82}
+        - {x: -101, y: 82}
+        - {x: -109, y: 75}
+        - {x: -109, y: 12}
+        - {x: -95, y: -48}
+        - {x: -56, y: -81}
+        - {x: 81, y: -81}
+        - {x: 109, y: -40}
+        - {x: 109, y: 80}
+        - {x: 103, y: 82}
+      - - {x: -91, y: -38}
+        - {x: -88, y: -37}
+        - {x: -88, y: -34}
+        - {x: -91, y: -33}
+        - {x: -93, y: -35}
+      - - {x: 108, y: -32}
+        - {x: 110, y: -35}
+        - {x: 112, y: -34}
+        - {x: 112, y: -31}
+        - {x: 110, y: -30}
+      - - {x: -93, y: -31}
+        - {x: -90, y: -30}
+        - {x: -90, y: -27}
+        - {x: -93, y: -26}
+        - {x: -95, y: -28}
+      - - {x: 103, y: 2}
+        - {x: 105, y: 0}
+        - {x: 108, y: 1}
+        - {x: 108, y: 4}
+        - {x: 106, y: 6}
+        - {x: 103, y: 5}
+      - - {x: 109, y: 19}
+        - {x: 111, y: 17}
+        - {x: 112, y: 17}
+        - {x: 112, y: 22}
+        - {x: 110, y: 22}
+      - - {x: -19, y: 76}
+        - {x: -18, y: 73}
+        - {x: -15, y: 73}
+        - {x: -13, y: 75}
+        - {x: -14, y: 78}
+        - {x: -17, y: 78}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

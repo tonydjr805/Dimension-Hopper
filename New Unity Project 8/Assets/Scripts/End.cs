@@ -9,7 +9,7 @@ public class End : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		flag = transform.Find ("Triangle").gameObject;
+ 		//flag = transform.Find ("sign").gameObject;
 	}
 	
 	// Update is called once per frame
@@ -26,7 +26,7 @@ public class End : MonoBehaviour
 
 	IEnumerator LoadNextLevel()
 	{
-		flag.GetComponent<SpriteRenderer> ().color = new Color (0, .6f, 0);
+		//flag.GetComponent<SpriteRenderer> ().color = new Color (0, .6f, 0);
 		yield return new WaitForSeconds (2);
 		SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex +1);
 	}

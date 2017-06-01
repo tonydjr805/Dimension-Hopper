@@ -8,12 +8,15 @@ public class Player : MonoBehaviour
 	public float speed;
 	public float jumpForce;
 	public float maxSpeed;
+	public float SpeedShoot;
 	public LayerMask ground;
+	public GameObject Bullet;
 	bool grounded;
 	bool leftSide;
 	bool rightSide;
 	bool canMove = true;
-
+	int Vida = 100;
+	bool Shooting;
 	// Use this for initialization
 	void Start () 
 	{
@@ -44,19 +47,21 @@ public class Player : MonoBehaviour
 			transform.localScale = new Vector3 (4, 4, 1);
 
 
-		if (Input.GetKeyDown (KeyCode.Space) && grounded)
+		if (Input.GetKeyDown (KeyCode.W) && grounded)
 			//rb.AddForce (new Vector2 (0, jumpForce)); /another way
 			rb.velocity = new Vector2(rb.velocity.x,jumpForce);
-		else if (Input.GetKeyDown (KeyCode.Space) && leftSide) 
+		else if (Input.GetKeyDown (KeyCode.W) && leftSide) 
 		{
 			rb.velocity = new Vector2 (8, 8);
 			StartCoroutine(DisableMove (0.7f));
 		} 
-		else if (Input.GetKeyDown (KeyCode.Space) && rightSide) 
+		else if (Input.GetKeyDown (KeyCode.W) && rightSide) 
 		{
 			rb.velocity = new Vector2 (-8, 8);
 			StartCoroutine(DisableMove (0.7f));
 		}
+		if (Input.GetMouseButtonDown (1))
+			StartCoroutine (Disparo ());
 	}
 
 	IEnumerator DisableMove(float time)
@@ -64,5 +69,25 @@ public class Player : MonoBehaviour
 		canMove = false;
 		yield return new WaitForSeconds (time);
 		canMove = true;
+	}
+	IEnumerator Disparo()
+	{
+		if (!Shooting) {
+			Shooting = true;
+			Vector2 Diff = Camera.main.ScreenToWorldPoint (Input.mousePosition) - transform.position;
+			Diff.Normalize ();
+			float Angle = Mathf.Atan2 (Diff.y, Diff.x) * Mathf.Rad2Deg;
+			Vector3 Pos = new Vector3 (transform.position.x, transform.position.y, -5);
+			Instantiate (Bullet, Pos, Quaternion.Euler (0, 0, Angle));
+			yield return new WaitForSeconds (SpeedShoot);
+			Shooting = false;
+		}
+	}
+	void RestarVida()
+	{
+		Vida -= 5;
+		if (Vida < 1) {
+			Camera.main.gameObject.SendMessage ("Murio", SendMessageOptions.DontRequireReceiver);
+		}
 	}
 }
