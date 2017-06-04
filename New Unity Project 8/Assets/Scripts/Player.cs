@@ -47,9 +47,9 @@ public class Player : MonoBehaviour
 		
 
 		if (Input.GetAxis ("Horizontal") < 0)
-			transform.localScale = new Vector3 (-1, 1, 1);
+			transform.localScale = new Vector3 (-4, 4, 1);
 		else if (Input.GetAxis("Horizontal") > 0)
-			transform.localScale = new Vector3 (1, 1, 1);
+			transform.localScale = new Vector3 (4, 4, 1);
 
 
 		if (Input.GetKeyDown (KeyCode.W) && grounded)
