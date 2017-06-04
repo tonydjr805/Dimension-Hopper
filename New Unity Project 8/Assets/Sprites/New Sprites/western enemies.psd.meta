@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: da48ebc42f7a14e409dc03e04e17f9e6
+timeCreated: 1496538867
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: western enemies_0
+    21300002: western enemies_1
+    21300004: western enemies_2
+    21300006: western enemies_3
+    21300008: western enemies_4
+    21300010: western enemies_5
+    21300012: western enemies_6
+    21300014: western enemies_7
+    21300016: western enemies_8
+    21300018: western enemies_9
+    21300020: western enemies_10
+    21300022: western enemies_11
+    21300024: western enemies_12
+    21300026: western enemies_13
+    21300028: western enemies_14
+    21300030: western enemies_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: western enemies_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1819
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 34.5}
+        - {x: -24.5, y: -30.5}
+        - {x: -16.5, y: -40.5}
+        - {x: 24.5, y: -40.5}
+        - {x: 24.5, y: 16.5}
+        - {x: 20.5, y: 33.5}
+        - {x: 8.5, y: 40.5}
+        - {x: -14.5, y: 40.5}
+        - {x: -21.5, y: 38.5}
+    - name: western enemies_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1812
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 34.5}
+        - {x: -24.5, y: -30.5}
+        - {x: -16.5, y: -40.5}
+        - {x: 24.5, y: -40.5}
+        - {x: 24.5, y: 16.5}
+        - {x: 20.5, y: 33.5}
+        - {x: 8.5, y: 40.5}
+        - {x: -14.5, y: 40.5}
+        - {x: -21.5, y: 38.5}
+    - name: western enemies_2
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1820
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 50}
+        - {x: -52, y: 27}
+        - {x: -70, y: 19}
+        - {x: -78, y: 11}
+        - {x: -78, y: -35}
+        - {x: -63, y: -35}
+        - {x: -33, y: -50}
+        - {x: 54, y: -50}
+        - {x: 78, y: -6}
+        - {x: 78, y: 50}
+      - - {x: -30, y: -27}
+        - {x: -27, y: -26}
+        - {x: -27, y: -23}
+        - {x: -30, y: -22}
+        - {x: -32, y: -24}
+    - name: western enemies_3
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1817
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 50}
+        - {x: -78, y: 22}
+        - {x: -78, y: -35}
+        - {x: -63, y: -35}
+        - {x: -33, y: -50}
+        - {x: 54, y: -50}
+        - {x: 78, y: -6}
+        - {x: 78, y: 50}
+      - - {x: -30, y: -27}
+        - {x: -27, y: -26}
+        - {x: -27, y: -23}
+        - {x: -30, y: -22}
+        - {x: -32, y: -24}
+    - name: western enemies_4
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1794
+        width: 150
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 48.5}
+        - {x: -75, y: 46.5}
+        - {x: -75, y: -24.5}
+        - {x: -35, y: -54.5}
+        - {x: 32, y: -54.5}
+        - {x: 64, y: -39.5}
+        - {x: 75, y: 6.5}
+        - {x: 75, y: 48.5}
+      - - {x: -27, y: -8.5}
+        - {x: -24, y: -7.5}
+        - {x: -24, y: -4.5}
+        - {x: -27, y: -3.5}
+        - {x: -29, y: -5.5}
+      - - {x: 68, y: 52.5}
+        - {x: 68, y: 54.5}
+        - {x: 63, y: 54.5}
+        - {x: 65, y: 51.5}
+    - name: western enemies_5
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1794
+        width: 150
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 55}
+        - {x: -53, y: 55}
+        - {x: -75, y: 31}
+        - {x: -75, y: -17}
+        - {x: -60, y: -16}
+        - {x: -18, y: -55}
+        - {x: 25, y: -55}
+        - {x: 64, y: -40}
+        - {x: 75, y: 6}
+        - {x: 75, y: 51}
+        - {x: 39, y: 48}
+      - - {x: -27, y: -9}
+        - {x: -24, y: -8}
+        - {x: -24, y: -5}
+        - {x: -27, y: -4}
+        - {x: -29, y: -6}
+      - - {x: 65, y: 51}
+        - {x: 68, y: 52}
+        - {x: 68, y: 55}
+        - {x: 64, y: 55}
+        - {x: 63, y: 54}
+    - name: western enemies_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1679
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: western enemies_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1639
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 25.5}
+        - {x: -17, y: 10.5}
+        - {x: -17, y: -25.5}
+        - {x: 10, y: -25.5}
+        - {x: 15, y: -19.5}
+        - {x: 17, y: -16.5}
+        - {x: 17, y: 25.5}
+    - name: western enemies_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1611
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 29.5}
+        - {x: -24, y: 23.5}
+        - {x: -24, y: -9.5}
+        - {x: 0, y: -29.5}
+        - {x: 24, y: -29.5}
+        - {x: 24, y: 1.5}
+        - {x: 9, y: 29.5}
+    - name: western enemies_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1443
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 46}
+        - {x: -41.5, y: 14}
+        - {x: -41.5, y: -17}
+        - {x: -29.5, y: -46}
+        - {x: -26.5, y: -46}
+        - {x: -10.5, y: -42}
+        - {x: -8.5, y: -40}
+        - {x: -8.5, y: -38}
+        - {x: -8.5, y: -39}
+        - {x: -3.5, y: -46}
+        - {x: 14.5, y: -46}
+        - {x: 21.5, y: -43}
+        - {x: 21.5, y: 35}
+        - {x: 13.5, y: 46}
+      - - {x: 20.5, y: -33}
+        - {x: 21.5, y: -36}
+        - {x: 25.5, y: -36}
+        - {x: 27.5, y: -34}
+        - {x: 26.5, y: -31}
+        - {x: 22.5, y: -31}
+      - - {x: 38.5, y: -26}
+        - {x: 40.5, y: -28}
+        - {x: 41.5, y: -28}
+        - {x: 41.5, y: -23}
+        - {x: 39.5, y: -23}
+    - name: western enemies_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1441
+        width: 67
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 54.5}
+        - {x: -6.5, y: 53.5}
+        - {x: -28.5, y: 20.5}
+        - {x: -33.5, y: 7.5}
+        - {x: -33.5, y: -25.5}
+        - {x: -21.5, y: -54.5}
+        - {x: -18.5, y: -54.5}
+        - {x: -2.5, y: -50.5}
+        - {x: -0.5, y: -48.5}
+        - {x: -0.5, y: -46.5}
+        - {x: -0.5, y: -47.5}
+        - {x: 2.5, y: -50.5}
+        - {x: 8.5, y: -54.5}
+        - {x: 21.5, y: -54.5}
+        - {x: 33.5, y: -48.5}
+        - {x: 33.5, y: 34.5}
+        - {x: 29.5, y: 54.5}
+      - - {x: 28.5, y: -41.5}
+        - {x: 29.5, y: -44.5}
+        - {x: 33.5, y: -44.5}
+        - {x: 33.5, y: -39.5}
+        - {x: 30.5, y: -39.5}
+    - name: western enemies_11
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1412
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -50.5}
+        - {x: 37.5, y: -50.5}
+        - {x: 37.5, y: 20.5}
+        - {x: 29.5, y: 21.5}
+        - {x: 27.5, y: 21.5}
+        - {x: 29.5, y: 21.5}
+        - {x: 33.5, y: 24.5}
+        - {x: 34.5, y: 34.5}
+        - {x: 30.5, y: 50.5}
+        - {x: -14.5, y: 50.5}
+        - {x: -37.5, y: 33.5}
+        - {x: -37.5, y: -4.5}
+        - {x: -36.5, y: -5.5}
+        - {x: -16.5, y: -5.5}
+        - {x: -11.5, y: -2.5}
+        - {x: -23.5, y: -49.5}
+        - {x: -22.5, y: -50.5}
+        - {x: 3.5, y: -50.5}
+        - {x: 7.5, y: -47.5}
+        - {x: 6.5, y: -35.5}
+        - {x: 7.5, y: -43.5}
+    - name: western enemies_12
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1412
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -38.5}
+        - {x: 3, y: -43.5}
+        - {x: 8, y: -50.5}
+        - {x: 34, y: -50.5}
+        - {x: 35, y: -49.5}
+        - {x: 35, y: 20.5}
+        - {x: 25, y: 21.5}
+        - {x: 23, y: 21.5}
+        - {x: 25, y: 21.5}
+        - {x: 29, y: 24.5}
+        - {x: 30, y: 34.5}
+        - {x: 26, y: 50.5}
+        - {x: -19, y: 50.5}
+        - {x: -42, y: 33.5}
+        - {x: -42, y: -4.5}
+        - {x: -41, y: -5.5}
+        - {x: -21, y: -5.5}
+        - {x: -16, y: -2.5}
+        - {x: -28, y: -49.5}
+        - {x: -26, y: -50.5}
+        - {x: -3, y: -50.5}
+        - {x: 3, y: -43.5}
+        - {x: 2, y: -40.5}
+        - {x: -2, y: -36.5}
+      - - {x: 39, y: 9.5}
+        - {x: 41, y: 7.5}
+        - {x: 42, y: 7.5}
+        - {x: 42, y: 12.5}
+        - {x: 40, y: 12.5}
+    - name: western enemies_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1123
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: western enemies_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 971
+        width: 184
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: -51.5}
+        - {x: 71, y: 138.5}
+        - {x: 48, y: 143.5}
+        - {x: 0, y: 143.5}
+        - {x: -32, y: 127.5}
+        - {x: -92, y: 88.5}
+        - {x: -92, y: -99.5}
+        - {x: -53, y: -142.5}
+        - {x: -49, y: -143.5}
+        - {x: -2, y: -143.5}
+        - {x: 14, y: -132.5}
+        - {x: 58, y: -143.5}
+        - {x: 90, y: -137.5}
+      - - {x: 88, y: 22.5}
+        - {x: 88, y: 19.5}
+        - {x: 90, y: 17.5}
+        - {x: 92, y: 17.5}
+        - {x: 92, y: 22.5}
+        - {x: 91, y: 23.5}
+    - name: western enemies_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1083
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
